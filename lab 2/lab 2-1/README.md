@@ -7,9 +7,9 @@
 ## lab 2-1_1
 
 ### Result
-![Result](./img/lab2-1_1 result.png)
+![Result](https://github.com/QinWenFeng/Introduction-to-Internet-of-Things/blob/main/lab%202/lab%202-1/img/lab2-1_1%20result.png)
 
 ## lab 2-1_2
 
 ### Result
-![Result](./img/lab2-1_2 (master) result.png)
+![Result](https://github.com/QinWenFeng/Introduction-to-Internet-of-Things/blob/main/lab%202/lab%202-1/img/lab2-1_2%20(master)%20result.png)

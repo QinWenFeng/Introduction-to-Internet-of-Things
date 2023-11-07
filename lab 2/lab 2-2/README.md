@@ -5,4 +5,4 @@
 2. LoRa module-GL6509
 
 ## Result
-![Result](./img/lab2-2 result.png)
+![Result](https://github.com/QinWenFeng/Introduction-to-Internet-of-Things/tree/main/lab%202/lab%202-2)
